@@ -1,2 +1,3 @@
 # test-repository
-this is my forst repository just to test
+this is my first repository just to test.
+I just made this to see how the git works.
